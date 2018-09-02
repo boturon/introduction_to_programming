@@ -1,12 +1,13 @@
-# Introduction to Python Programming
+
+# Introduction to Programming
 This repository contains a collection of Jupyter/IPython Notebooks introducing fundamental programming concepts in Python. These concepts are common to many programming languages, and can be applied in other languages with different syntax. The notebooks are intended to guide students in learning the basic functionality of programming in Python, as well as introduce some of the most useful Python libraries.
 
 To begin make sure you have setup your programming environment correctly, in order to do this read the [getting started guide](#getting-started). After that you are ready to start working with through the [course material](#course-material), starting by reviewing the lecture material and then working through the core notebooks zero to thirteen. Finally some bonus material is provided about code style, databases, modules, and python philosophy.  
 
 ## Course Material
 
-### Lecture:
-* [Course Lecture](python_course.pdf)
+### Materials:
+* [Class Slides](class_slides)
 
 ### Notebooks:
 0. [Introduction to Jupyter Notebooks](00_introduction_to_jupyter_notebooks.ipynb)
@@ -43,7 +44,7 @@ If you are familiar with git version control and have git installed then you can
 
     git clone https://github.com/williamgrimes/teach_python_in_notebooks.git
 
-Otherwise navigate to the following webpage (where you are reading this readme): 
+Otherwise navigate to the following webpage (where you are reading this readme):
 
 https://github.com/williamgrimes/teach_python_in_notebooks.git
 
@@ -65,7 +66,7 @@ If you are still curious after working through all the notebooks have a look at 
 If you have installed the Anaconda 3.x distribution as described above you will have fulfilled the basic requirements necessary to begin working. Otherwise, please ensure you have the following installed before starting the course:
 
 * Python 3.x (2.x would work as well)
-* IPython 4.x (with **notebook support**) or Jupyter: 
+* IPython 4.x (with **notebook support**) or Jupyter:
 * matplotlib library
 * NumPy library
 
