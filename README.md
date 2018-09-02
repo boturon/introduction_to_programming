@@ -54,11 +54,11 @@ Anaconda python can be downloaded from this webpage: [**Anaconda Python**](https
 ### 2. Download the tutorial notebooks
 If you are familiar with git version control and have git installed then you can download the relevant course notebooks by doing a git clone:
 
-    git clone https://github.com/joaopfonseca/teach_python_in_notebooks.git
+    git clone https://github.com/joaopfonseca/introduction_to_programming.git
 
 Otherwise navigate to the following webpage (where you are reading this readme):
 
-https://github.com/joaopfonseca/teach_python_in_notebooks
+https://github.com/joaopfonseca/introduction_to_programming
 
 And select `Clone or download`, then download the zip file and extract.
 
@@ -92,7 +92,7 @@ To check if these are installed you can run the following:
 N.B. these coursenotebooks are written in **Python 3**, if you are running Python 2, you might want to consider adding Python 3 to your system.
 
 ### Acknowledgements
-This repository was edited from `teach_python_in_notebooks` by [William Grimes](https://github.com/williamgrimes/teach_python_in_notebooks).
+This repository was adapted from `teach_python_in_notebooks` by [William Grimes](https://github.com/williamgrimes/teach_python_in_notebooks).
 
 ## License and Sharing Material
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
