@@ -41,8 +41,11 @@ Having the same working environment as the rest of the class will help you follo
 This course will cover basic command line operations in Bash (which is the shell used in Linux distributions).
 
 &nbsp;&nbsp;&nbsp;&nbsp; **1.** Download and install [Virtual Box](https://www.virtualbox.org/)
+
 &nbsp;&nbsp;&nbsp;&nbsp; **2.** Download [Ubuntu Desktop 18.04.1 LTS](https://www.ubuntu.com/download/desktop)
+
 &nbsp;&nbsp;&nbsp;&nbsp; **3.** Open Virtual Box and create your Virtual Machine using the downloaded .iso file (click on New - Top left corner). If you're not sure about which configurations to choose, use the recommended ones.
+
 &nbsp;&nbsp;&nbsp;&nbsp; **4.** Launch your newly created virtual machine and proceed
 
 
