@@ -43,7 +43,7 @@ This course will cover basic command line operations in Bash (which is the shell
 ...**1.** Download and install [Virtual Box](https://www.virtualbox.org/)
 ...**2.** Download [Ubuntu Desktop 18.04.1 LTS](https://www.ubuntu.com/download/desktop)
 ...**3.** Open Virtual Box and create your Virtual Machine using the downloaded .iso file (click on New - Top left corner). If you're not sure about which configurations to choose, use the recommended ones.
-...**4.** Launch your newly created virtual machine and proceed through the setup
+...**4.** Launch your newly created virtual machine and proceed
 
 
 ### 1. Install Python
