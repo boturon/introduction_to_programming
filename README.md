@@ -35,7 +35,16 @@ To begin make sure you have setup your programming environment correctly, in ord
 
 
 ## Getting started
-### 0.
+### 0. Setting up a Virtual Machine with a Linux distribution
+Having the same working environment as the rest of the class will help you follow the practical classes and ensure everyone is on the same page throughout the exercises, as well as eliminate the risk of accidentally messing up system and or personal files when learning to use the terminal and finally helps me assisting you through your exercises.
+
+This course will cover basic command line operations in Bash (which is the shell used in Linux distributions).
+
+...**1.** Download and install [Virtual Box](https://www.virtualbox.org/)
+...**2.** Download [Ubuntu Desktop 18.04.1 LTS](https://www.ubuntu.com/download/desktop)
+...**3.** Open Virtual Box and create your Virtual Machine using the downloaded .iso file (click on New - Top left corner). If you're not sure about which configurations to choose, use the recommended ones.
+...**4.** Launch your newly created virtual machine and proceed through the setup
+
 
 ### 1. Install Python
 If you have not yet installed Python the **Anaconda** distribution by [**Continuum Analytics**](http://www.continuum.io/) is highly recommended. Anaconda is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. Anaconda includes an easy-to-use installer for almost every platform, drastically reducing the burden of setting up the environment. In addition it comes packaged with the most useful Python libraries.
