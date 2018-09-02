@@ -8,6 +8,7 @@ To begin make sure you have setup your programming environment correctly, in ord
 
 ### Materials:
 * [Class Slides](class_slides)
+* [Some useful Cheat Sheets](cheat_sheets)
 
 ### Notebooks:
 0. [Introduction to Jupyter Notebooks](00_introduction_to_jupyter_notebooks.ipynb)
@@ -34,19 +35,21 @@ To begin make sure you have setup your programming environment correctly, in ord
 
 
 ## Getting started
+### 0.
+
 ### 1. Install Python
 If you have not yet installed Python the **Anaconda** distribution by [**Continuum Analytics**](http://www.continuum.io/) is highly recommended. Anaconda is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. Anaconda includes an easy-to-use installer for almost every platform, drastically reducing the burden of setting up the environment. In addition it comes packaged with the most useful Python libraries.
 
-Anaconda python can be downloaded from this webpage: [**Anaconda Python**](https://store.continuum.io/cshop/anaconda/)
+Anaconda python can be downloaded from this webpage: [**Anaconda Python**](https://www.anaconda.com/download/)
 
 ### 2. Download the tutorial notebooks
 If you are familiar with git version control and have git installed then you can download the relevant course notebooks by doing a git clone:
 
-    git clone https://github.com/williamgrimes/teach_python_in_notebooks.git
+    git clone https://github.com/joaopfonseca/teach_python_in_notebooks.git
 
 Otherwise navigate to the following webpage (where you are reading this readme):
 
-https://github.com/williamgrimes/teach_python_in_notebooks.git
+https://github.com/joaopfonseca/teach_python_in_notebooks
 
 And select `Clone or download`, then download the zip file and extract.
 
@@ -80,7 +83,7 @@ To check if these are installed you can run the following:
 N.B. these coursenotebooks are written in **Python 3**, if you are running Python 2, you might want to consider adding Python 3 to your system.
 
 ### Acknowledgements
-This repository was edited from `python-in-a-notebook` by [Valerio Maggio](https://github.com/leriomaggio/python-in-a-notebook).
+This repository was edited from `teach_python_in_notebooks` by [William Grimes](https://github.com/williamgrimes/teach_python_in_notebooks).
 
 ## License and Sharing Material
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
