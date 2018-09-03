@@ -1,6 +1,6 @@
 
 
-<img style="text-align:center src ="files/images/nova_logo.png" />
+<img src ="files/images/nova_logo.png" />
 
 # Introduction to Programming
 This repository contains a collection of Jupyter/IPython Notebooks introducing fundamental programming concepts in Python. These concepts are common to many programming languages, and can be applied in other languages with different syntax. The notebooks are intended to guide students in learning the basic functionality of programming in Python, as well as introduce some of the most useful Python libraries.
